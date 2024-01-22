@@ -7,7 +7,7 @@ expand my skill set working on challenging projects (especially fintech) with co
 - 👯 I’m looking to collaborate on startups and pet projects.<br/> 
 - 🥅 2022 Goals: Take part in large fintech project as backend developer.<br/> 
 - 💬 Ask me about pretty much anything kotlin/java or spring related, always happy to chat about tech.<br/> 
-- 📩 You can find me here <a href ="https://t.me/Nikik0_Moon">@Nikik0_Moon</a> on Telegram - [nikik0.job@gmail.com](mailto:nikik0.job@gmail.com) <br/>   
+- 📩 You can find me here <a href ="https://t.me/Nikik0_Moon">@Nikik0_Moon</a> on Telegram - nikik0.job@gmail.com (mailto:nikik0.job@gmail.com) <br/>   
 - ⚡ Fun fact: I ❤️ playing electric guitar, music🎧, fashion, parfum and trying new stuff.<br/> 
 <br>
 <table>
