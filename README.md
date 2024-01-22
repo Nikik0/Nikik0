@@ -27,10 +27,10 @@ expand my skill set working on challenging projects (especially fintech) with co
 
 <table>
     <tr>
-        <td>
+        <td rowspan=2>
             <img src="https://spotify-recently-played-readme.vercel.app/api?user=3fmocrfm6tirkgv292q06zdfy&count=10&width=500" align="center"/>
         </td>
-        <td rowspan=2>
+        <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikik0&theme=dark" align="center"/>
         </td>
             <tr>
