@@ -46,5 +46,10 @@ expand my skill set working on challenging projects (especially fintech) with co
         <td rowspan=2>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikik0&theme=dark" align="center"/>
         </td>
+            <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=Debanshu777&count_private=true&theme=dark&show_icons=true" align="center"/>
+        </td>
+    </tr>
     </tr>
 </table>
