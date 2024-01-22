@@ -5,11 +5,11 @@ I'm a software engineer passionate about Kotlin/Java backend development, reacti
 expand my skill set working on challenging projects (especially fintech) with complex architecture, sla over 99.999% and high loads. Open for colabs, pet projects and startups.<br/> 
 <br>
 - :page_with_curl: Check out my <a href="https://nikik0.github.io/my-CV/">CV.</a><br/> 
-- 🔭 I’m currently working on multiple pet projects to explore new technologies.<br/> 
-- 👯 I’m looking to collaborate on startups and non-commercial projects.<br/> 
-- 🥅 2022 Goals: Take part in large fintech project as backend developer.<br/>
+- 🔭 I’m currently working on multiple pet projects to explore new technologies.<br/>
 - 💬 Ask me about pretty much anything Kotlin/Java or Spring related, always happy to chat about tech.<br/> 
+- 👯 I’m looking to collaborate on startups and non-commercial projects.<br/>
 - 📩 You can find me here <a href ="https://t.me/Nikik0_Moon">@Nikik0_Moon</a> on Telegram or email <a href="mailto:nikik0.job@gmail.com">nikik0.job@gmail.com</a> <br/>   
+- 🥅 2022 Goals: Take part in large fintech project as backend developer.<br/>
 - ⚡ Fun fact: I ❤️ playing electric guitar :guitar:, music🎧, fashion, fragrance and trying new stuff.<br/> 
 <br>
 <table>
