@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 <img src="https://github.com/Debanshu777/Debanshu777/blob/main/banner.png"/>
 <br>
 I'm a software engineer passionate about Kotlin/Java backend development, reactive programming and microservice architecture. Always seeking opportunities to
-expand my skill set working on challenging projects (especially fintech) with complex architecture, sla over 99.999% and high loads. Open for colabs, pet projects and startups. \
-- 🔭 I’m currently working on multiple petprojects to explore new technologies. \
-- 👯 I’m looking to collaborate on startups and petprojects. \
-- 🥅 2022 Goals: Take part in large fintech project as backend developer. \
-- 💬 Ask me about pretty much anything kotlin/java or spring related, always happy to chat about tech. \
-- 📩 You can find me here <a href ="https://t.me/Nikik0_Moon">@Nikik0_Moon</a> on Telegram - [nikik0.job@gmail.com](mailto:nikik0.job@gmail.com) \
-- ⚡ Fun fact: I ❤️ playing electric guitar, music🎧, fashion, parfum and trying new stuff. \
+expand my skill set working on challenging projects (especially fintech) with complex architecture, sla over 99.999% and high loads. Open for colabs, pet projects and startups.  
+- 🔭 I’m currently working on multiple petprojects to explore new technologies.  
+- 👯 I’m looking to collaborate on startups and petprojects.  
+- 🥅 2022 Goals: Take part in large fintech project as backend developer.  
+- 💬 Ask me about pretty much anything kotlin/java or spring related, always happy to chat about tech.  
+- 📩 You can find me here <a href ="https://t.me/Nikik0_Moon">@Nikik0_Moon</a> on Telegram - [nikik0.job@gmail.com](mailto:nikik0.job@gmail.com)  
+- ⚡ Fun fact: I ❤️ playing electric guitar, music🎧, fashion, parfum and trying new stuff.  
 
 <table>
     <tr>
