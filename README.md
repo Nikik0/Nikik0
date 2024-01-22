@@ -17,23 +17,13 @@ Here are some ideas to get you started:
 <img src="https://github.com/Debanshu777/Debanshu777/blob/main/banner.png"/>
 <br>
 I'm a software engineer passionate about Kotlin/Java backend development, reactive programming and microservice architecture. Always seeking opportunities to
-expand my skill set working on challenging projects (especially fintech) with complex architecture, sla over 99.999% and high loads. Open for colabs, pet projects and startups.  
+expand my skill set working on challenging projects (especially fintech) with complex architecture, sla over 99.999% and high loads. Open for colabs, pet projects and startups.<br/> 
 - 🔭 I’m currently working on multiple petprojects to explore new technologies.<br/> 
-- 👯 I’m looking to collaborate on startups and petprojects.<br/> 
-- 🥅 2022 Goals: Take part in large fintech project as backend developer.  
-- 💬 Ask me about pretty much anything kotlin/java or spring related, always happy to chat about tech.  
-- 📩 You can find me here <a href ="https://t.me/Nikik0_Moon">@Nikik0_Moon</a> on Telegram - [nikik0.job@gmail.com](mailto:nikik0.job@gmail.com)  
-- ⚡ Fun fact: I ❤️ playing electric guitar, music🎧, fashion, parfum and trying new stuff.  
-
-
-I'm an **Undergrad Student🎓 [@KIIT](https://kiit.ac.in/)** pursuing CSE. I love to explore new technologies 
-and leverage them to solve real-life problems. I love everything Kotlin❤️.
-- 🔭 I’m currently working on a few Jetpack Compose projects.
-- 🥅 2022 Goals: Contribute more to Open Source projects.
-- 💬 Ask me about Android Development, Springboot, Ktor and Kotlin in general.
-- 📩 You can find me at <a href ="https://twitter.com/DattaDebanshu">@DattaDebanshu</a> on twitter - [debanshudatta123@gmail.com](mailto:debanshudatta123@gmail.com)
-- ⚡ Fun fact: I ❤️ Astrophysics, EDMs🎧 and like to try something new everyday. 
-
+- 👯 I’m looking to collaborate on startups and pet projects.<br/> 
+- 🥅 2022 Goals: Take part in large fintech project as backend developer.<br/> 
+- 💬 Ask me about pretty much anything kotlin/java or spring related, always happy to chat about tech.<br/> 
+- 📩 You can find me here <a href ="https://t.me/Nikik0_Moon">@Nikik0_Moon</a> on Telegram - [nikik0.job@gmail.com](mailto:nikik0.job@gmail.com)<br/>   
+- ⚡ Fun fact: I ❤️ playing electric guitar, music🎧, fashion, parfum and trying new stuff.<br/> 
 
 <table>
     <tr>
