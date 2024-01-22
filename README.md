@@ -15,28 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github.com/Debanshu777/Debanshu777/blob/main/banner.png"/>
-<table>
-    <tr>
-    <td  align="center">
-        <a href="https://t.me/Nikik0_Moon">
-            <img align="left" alt="Contact me via Telegram" width="22px" src="https://www.svgrepo.com/show/3109/telegram.svg" />
-        </a>
-        <a href="https://nikik0.github.io/my-CV/">
-            <img align="left" alt="Check out my CV" width="22px" height="22px" src="https://pic.onlinewebfonts.com/thumbnails/icons_461669.svg" />
-        </a>
-    </td>
-    <tr>
-</table>
 <br>
-<img src="https://komarev.com/ghpvc/?username=Nikik0&style=flat-square"/>
 I'm a software engineer passionate about Kotlin/Java backend development, reactive programming and microservice architecture. Always seeking opportunities to
-expand my skill set working on challenging projects (especially fintech) with complex architecture, sla over 99.999% and high loads. Open for colabs, pet projects and startups.
-- 🔭 I’m currently working on multiple petprojects to explore new technologies
-- 👯 I’m looking to collaborate on startups and petprojects
-- 🥅 2022 Goals: Take part in large fintech project as backend developer.
-- 💬 Ask me about pretty much anything kotlin/java or spring related, always happy to chat about tech
-- 📩 You can find me here <a href ="https://t.me/Nikik0_Moon">@Nikik0_Moon</a> on Telegram - [nikik0.job@gmail.com](mailto:nikik0.job@gmail.com)
-- ⚡ Fun fact: I ❤️ playing electric guitar, music🎧, fashion, parfum and trying new stuff
+expand my skill set working on challenging projects (especially fintech) with complex architecture, sla over 99.999% and high loads. Open for colabs, pet projects and startups. \
+- 🔭 I’m currently working on multiple petprojects to explore new technologies. \
+- 👯 I’m looking to collaborate on startups and petprojects. \
+- 🥅 2022 Goals: Take part in large fintech project as backend developer. \
+- 💬 Ask me about pretty much anything kotlin/java or spring related, always happy to chat about tech. \
+- 📩 You can find me here <a href ="https://t.me/Nikik0_Moon">@Nikik0_Moon</a> on Telegram - [nikik0.job@gmail.com](mailto:nikik0.job@gmail.com) \
+- ⚡ Fun fact: I ❤️ playing electric guitar, music🎧, fashion, parfum and trying new stuff. \
 
 <table>
     <tr>
@@ -48,7 +35,7 @@ expand my skill set working on challenging projects (especially fintech) with co
         </td>
             <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=Debanshu777&count_private=true&theme=dark&show_icons=true" align="center"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=Nikik0&count_private=true&theme=dark&show_icons=true" align="center"/>
         </td>
     </tr>
     </tr>
