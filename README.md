@@ -25,6 +25,16 @@ expand my skill set working on challenging projects (especially fintech) with co
 - 📩 You can find me here <a href ="https://t.me/Nikik0_Moon">@Nikik0_Moon</a> on Telegram - [nikik0.job@gmail.com](mailto:nikik0.job@gmail.com)  
 - ⚡ Fun fact: I ❤️ playing electric guitar, music🎧, fashion, parfum and trying new stuff.  
 
+
+I'm an **Undergrad Student🎓 [@KIIT](https://kiit.ac.in/)** pursuing CSE. I love to explore new technologies 
+and leverage them to solve real-life problems. I love everything Kotlin❤️.
+- 🔭 I’m currently working on a few Jetpack Compose projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 💬 Ask me about Android Development, Springboot, Ktor and Kotlin in general.
+- 📩 You can find me at <a href ="https://twitter.com/DattaDebanshu">@DattaDebanshu</a> on twitter - [debanshudatta123@gmail.com](mailto:debanshudatta123@gmail.com)
+- ⚡ Fun fact: I ❤️ Astrophysics, EDMs🎧 and like to try something new everyday. 
+
+
 <table>
     <tr>
         <td>
