@@ -31,11 +31,11 @@ expand my skill set working on challenging projects (especially fintech) with co
             <img src="https://spotify-recently-played-readme.vercel.app/api?user=3fmocrfm6tirkgv292q06zdfy&count=10&width=500" align="center"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikik0&theme=dark" align="center"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikik0&theme=dark&width=500" align="center"/>
         </td>
             <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=Nikik0&count_private=true&theme=dark&show_icons=true" align="center"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=Nikik0&count_private=true&theme=dark&show_icons=true&width=500" align="center"/>
         </td>
     </tr>
     </tr>
