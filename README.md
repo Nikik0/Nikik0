@@ -1,4 +1,4 @@
-:wave: Hello There
+:wave: Hello there
 <br>
 <br>
 I'm a software engineer passionate about Kotlin/Java backend development, reactive programming and microservice architecture. Always seeking opportunities to
@@ -9,7 +9,7 @@ expand my skill set working on challenging projects (especially fintech) with co
 - 💬 Ask me about pretty much anything Kotlin/Java or Spring related, always happy to chat about tech.<br/> 
 - 👯 I’m looking to collaborate on startups, hackathons and non-commercial projects.<br/>
 - 📩 You can find me here <a href ="https://t.me/Nikik0_Moon">@Nikik0_Moon</a> on Telegram or email <a href="mailto:nikik0.job@gmail.com">nikik0.job@gmail.com</a> <br/>   
-- 🥅 2022 Goals: Take part in large fintech project as backend developer.<br/>
+- 🥅 2022 Goals: Participate in large fintech project as backend developer.<br/>
 - ⚡ Fun fact: I ❤️ playing electric guitar :guitar:, music🎧, fashion, fragrance and trying new stuff.<br/> 
 <br>
 <table>
