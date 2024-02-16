@@ -10,7 +10,7 @@ expand my skill set working on challenging projects (especially fintech) with co
 - 👯 I’m looking to collaborate on startups, hackathons and non-commercial projects.<br/>
 - 📩 You can find me here <a href ="https://t.me/Nikik0_Moon">@Nikik0_Moon</a> on Telegram or email <a href="mailto:nikik0.job@gmail.com">nikik0.job@gmail.com</a> <br/>   
 - 🥅 2024 Goals: Participate in large fintech project as backend developer.<br/>
-- ⚡ Fun facts: I ❤️ playing electric guitar :guitar:, music🎧, fashion, fragrance and trying new stuff.<br/> 
+- ⚡ Fun facts: I ❤️ playing electric guitar :guitar:, music🎧, fashion, rare fragrance, IT conferences and meetups.<br/> 
 <br>
 <table>
 	<tbody>
