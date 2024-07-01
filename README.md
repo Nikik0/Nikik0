@@ -4,7 +4,6 @@
 I'm a software engineer passionate about Kotlin/Java backend development, reactive programming and microservice architecture. Always seeking opportunities to
 expand my skill set working on challenging projects (especially fintech) with complex architecture, 99.99% sla and highload. Open for collabs, hackathons, pet projects and startups.<br/> 
 <br>
-- :page_with_curl: Check out my <a href="https://nikik0.github.io/my-CV/">CV.</a><br/> 
 - 🔭 I’m currently working on developing a very complicated system so i don't have much time for pet projects.<br/>
 - 💬 Ask me about pretty much anything Kotlin/Java or Spring related, always happy to chat about tech.<br/> 
 - 👯 I’m looking to collaborate on startups, hackathons and non-commercial projects.<br/>
